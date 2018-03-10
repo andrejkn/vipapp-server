@@ -1,0 +1,22 @@
+{
+  "name": "vipapp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejkn/vipapp-server.git"
+  },
+  "author": "Andrej Knezevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejkn/vipapp-server/issues"
+  },
+  "homepage": "https://github.com/andrejkn/vipapp-server#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
